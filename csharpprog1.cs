@@ -6,7 +6,11 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            int nigger = 5;
+            if (nigger <= 5){
+                Console.WriteLine("Hello World");
+            }
+            
         }
     }
 }
