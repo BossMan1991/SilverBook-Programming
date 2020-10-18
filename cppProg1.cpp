@@ -6,10 +6,10 @@
 using namespace std;
 
 //Global Variables.
-char name [15];
-int tally;
-bool feme, tits, animeSub ;
-bool penis, frtnt, tiktok ;
+char name [20];
+int tallyG, tallyS;
+bool feme, tits, animeSub;
+bool penis, frtnt, tiktok;
 
 int main (void){
 
